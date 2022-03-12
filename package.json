@@ -1,0 +1,25 @@
+{
+  "name": "automation_glitzi",
+  "version": "1.0.0",
+  "description": "automation glitzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduar13/automation_glitzi.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Eduardo Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduar13/automation_glitzi/issues"
+  },
+  "homepage": "https://github.com/eduar13/automation_glitzi#readme"
+}
